@@ -1,0 +1,9 @@
+os
+sys
+asyncio
+threading
+typing
+httpx
+colorama
+pystyle
+discord
