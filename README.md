@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1081695103468458034/1089729510238326844/image.png" </a>
+<img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ PREMIUM VERSION:
 </p>
  
 ---
-![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
+![image](https://media.discordapp.net/attachments/1081695103468458034/1089729510238326844/image.png)
 ![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 
 
