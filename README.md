@@ -51,6 +51,7 @@ PREMIUM VERSION:
 ```sh-session
 Download BatNet-beta.zip
 Extract File
+Put bot's token in "Batnet.py"
 Tap "install.bat" in GANG Folder
 Once All The Modules Have Been Installed BatNet will Auto Launch!
 Enjoy!
