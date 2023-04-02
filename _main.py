@@ -6,29 +6,17 @@
 # = = = = = Imports = = = = =
 import os
 import sys
-try:
-    import asyncio
-except:
-    os.system("pip install asyncio")
-    import asyncio
+import asyncio
 
 from threading import Thread
 from typing import Dict, Self
 
-try:
-    import httpx
-except:
-    os.system("pip httpx")
-    import httpx
+import httpx
 
 from colorama import Fore as F
 from pystyle import Colorate, Colors
 
-try:
-    import discord
-except:
-    os.system("pip discord")
-    import discord
+import discord
 from discord import Embed, Permissions
 from discord.ext import commands as cmds
 
