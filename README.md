@@ -41,21 +41,21 @@ PREMIUM VERSION:
 - [x] - **Might Have Some Bugs**
 - [x] - **Python Provided**
 
-> **WARNING:** Many people have been selling/distributing of GANG-Nuker!
+> **WARNING:** Many people have been selling/distributing of BatNet!
 
-> **DO NOT** Installing GANG-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
+> **DO NOT** Installing BatNet From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 ## Installation
 
 #### Source Code Version (More complicated but less buggy)
 ```sh-session
-Download GANG-Nuker.zip
+Download BatNet-main.zip
 Extract File
-Tap "Install.bat" in GANG Folder
-Once All The Modules Have Been Installed GANG will Auto Launch!
+Tap "install.bat" in GANG Folder
+Once All The Modules Have Been Installed BatNet will Auto Launch!
 Enjoy!
 
-NOTE: When Opening GANG-Nuker Just Tap "start.bat" to Open Everytime!
+NOTE: When Opening Batnet Just Tap "start.bat" to Open Everytime!
 NOTE: Make sure you have Python 3.9+ and Added to Path.
 ```
 
