@@ -49,7 +49,7 @@ PREMIUM VERSION:
 
 #### Source Code Version (More complicated but less buggy)
 ```sh-session
-Download BatNet-main.zip
+Download BatNet-beta.zip
 Extract File
 Tap "install.bat" in GANG Folder
 Once All The Modules Have Been Installed BatNet will Auto Launch!
