@@ -24,7 +24,6 @@ PREMIUM VERSION:
  
 ---
 ![image](https://media.discordapp.net/attachments/1081695103468458034/1089729510238326844/image.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 
 
 <p align="center"> 
